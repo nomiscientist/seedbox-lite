@@ -1,6 +1,4 @@
 # Environment files (keep examples, ignore actual configs)
-.env
-.env.local
 .env.*.local
 
 # Keep example files
@@ -33,7 +31,6 @@ ehthumbs.db
 Thumbs.db
 
 # IDE files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -65,3 +62,4 @@ server/.env.production
 
 # Torrents
 downloads
+config.bat
